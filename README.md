@@ -36,4 +36,7 @@
 </a>
 
 ## Onde me encontrar
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusroodrigues/)
+[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.roodriguesb/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gugaaroodrigues@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547996937037)
