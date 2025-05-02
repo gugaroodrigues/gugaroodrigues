@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias.
 - 🎓 Estudando Análise e desenvolvimento de Sistemas na Unisociesc.
 - 💼 Trabalhando atualmente como bartender enquanto aprimoro meus conhecimentos para fazer a migração para area de tecnologia.
 - 🌱 Aprendendo mais sobre Python, Java entre outras tecnologias.
