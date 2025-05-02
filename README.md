@@ -31,7 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/gugaaroodrigues" title="Perfil do Gus">
+<a href="https://github.com/gugaroodrigues" title="Perfil do Gus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugaroodrigues&theme=dracula&show_icons=true" />
 </a>
 
